@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Nelson (Hao) Chen&#39;s website</title>
+    <link>/</link>
+    <description>Recent content in Home on Nelson (Hao) Chen&#39;s website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Education Background</title>
+      <link>/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/education/</guid>
+      <description>  PhD in Statistics, University of British Columbia (Vancouver, BC, Canada) in March, 2018
+  MSc in Statistics, University of British Columbia (Vancouver, BC, Canada) in August, 2013
+  BSc in Statistics, Renmin University of China (Beijing, China) in July, 2011
+  </description>
+    </item>
+    
+    <item>
+      <title>My Reseach Page</title>
+      <link>/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/</guid>
+      <description>I am interested in statistical modeling, predictive analysis and developing new machine learning algorithms and models with its application in business. My publication lists are as follows
+Journal Papers -Qi Xu, Vann Chau, Chinnuwat Sanguansermsri, Katherine E. Muir, Emily W. Y. Tam, Steven P. Miller, Darren S. T. Wong, Hao Chen, Peter K. H. Wong, Jill G. Zwicker, Kenneth J. Poskitt, Alan Hill, Elke H. Roland (2019) Pattern of Brain Injury Predicts Long-Term Epilepsy Following Neonatal Encephalopathy.</description>
+    </item>
+    
+  </channel>
+</rss>
